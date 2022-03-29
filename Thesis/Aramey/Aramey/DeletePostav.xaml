@@ -1,0 +1,26 @@
+﻿<Window x:Class="Aramey.DeletePostav"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aramey"
+        mc:Ignorable="d"
+        Title="Удаление потавщиков" Height="450" Width="542.152" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:АрамейDataSet x:Key="арамейDataSet"/>
+        <CollectionViewSource x:Key="поставщикViewSource" Source="{Binding Поставщик, Source={StaticResource арамейDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource поставщикViewSource}" Background="White">
+        <Label Content="Список поставщиков" HorizontalAlignment="Left" Margin="0,-2,0,0" VerticalAlignment="Top" FontSize="48" FontFamily="Segoe UI Black" Width="653"/>
+        <Button Content="Назад" x:Name="Back" Margin="10,70,274,0" VerticalAlignment="Top" Click="Back_Click"/>
+        <Button Content="Удалить" x:Name="Del" HorizontalAlignment="Left" Margin="274,70,0,0" VerticalAlignment="Top" Width="250" Click="Del_Click" />
+        <DataGrid x:Name="поставщикDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="10,107,10,10" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="названиеColumn" Binding="{Binding Название}" Header="Название" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="ВидТехникиColumn" Binding="{Binding ВидТехники}" Header="Вид Техники" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="АдресColumn" Binding="{Binding Адрес}" Header="Адрес" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="НомерТелефонаColumn" Binding="{Binding НомерТелефона}" Header="Номер Телефона" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

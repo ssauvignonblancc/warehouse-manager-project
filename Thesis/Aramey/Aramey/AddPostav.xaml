@@ -1,0 +1,26 @@
+﻿<Window x:Class="Aramey.AddPostav"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aramey"
+        mc:Ignorable="d"
+        Title="Добавление поставщика" Height="562" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Добавление поставщика" HorizontalAlignment="Left" Margin="123,10,0,0" VerticalAlignment="Top" FontSize="48" FontFamily="Segoe UI Black"/>
+        <Label Content="Название" HorizontalAlignment="Left" Margin="123,127,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black"/>
+        <TextBox x:Name="NamePostav" HorizontalAlignment="Left" Height="40" Margin="388,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261"/>
+        <Button x:Name="Back" Content="Назад" HorizontalAlignment="Left" Margin="227,462,0,0" VerticalAlignment="Top" Width="149" Click="Back_Click"/>
+        <Button x:Name="Add" Content="Добавить" HorizontalAlignment="Left" Margin="388,462,0,0" VerticalAlignment="Top" Width="149" Click="Add_Click_1"/>
+        <Label Content="Вид техники" HorizontalAlignment="Left" Margin="123,211,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black"/>
+        <Label Content="Адрес" HorizontalAlignment="Left" Margin="123,291,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black"/>
+        <TextBox x:Name="KolText" HorizontalAlignment="Left" Height="40" Margin="388,291,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261"/>
+        <ComboBox Name="Vid" HorizontalAlignment="Left" Margin="388,218,0,0" VerticalAlignment="Top" Width="261">
+            <TextBlock>Бытовая техника</TextBlock>
+        </ComboBox>
+        <Label Content="Номер телефона" HorizontalAlignment="Left" Margin="123,381,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black"/>
+        <TextBox Name="NumberTel" HorizontalAlignment="Left" Margin="388,396,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261" Cursor="IBeam"/>
+
+
+    </Grid>
+</Window>

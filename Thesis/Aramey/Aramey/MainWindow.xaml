@@ -1,0 +1,27 @@
+﻿<Window x:Class="Aramey.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aramey"
+        mc:Ignorable="d"
+        xmlns:materialDesign ="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Главная" Height="539" Width="813.5" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="CanResize">
+    <Grid>
+        <Button Content="Список техники на складе" HorizontalAlignment="Left" Margin="28,104,0,0" VerticalAlignment="Top" Width="384" Click="Button_Click"/>
+        <Button Content="Список работников" HorizontalAlignment="Left" Margin="28,168,0,0" VerticalAlignment="Top" Width="384" Click="Button_Click_3"/>
+        <Button Content="История техники на складе" HorizontalAlignment="Left" Margin="28,300,0,0" VerticalAlignment="Top" Width="754" Click="Button_Click_6"/>
+        <Label Content="Окно администратора склада" HorizontalAlignment="Left" Margin="28,10,0,0" VerticalAlignment="Top" FontSize="48" FontFamily="Segoe UI Black"/>
+        <Button Content="Добавить технику" HorizontalAlignment="Left" Margin="613,104,0,0" VerticalAlignment="Top" Width="169" Click="Button_Click_2"/>
+        <Button Content="Удалить технику" HorizontalAlignment="Left" Margin="439,104,0,0" VerticalAlignment="Top" Width="169" Click="Button_Click_1"/>
+        <Button Content="Добавить работника" HorizontalAlignment="Left" Margin="613,168,0,0" VerticalAlignment="Top" Width="169" Click="Button_Click_4"/>
+        <Button Content="Удалить работника" HorizontalAlignment="Left" Margin="439,168,0,0" VerticalAlignment="Top" Width="169" Click="Button_Click_5"/>
+        <Button Content="Список поставщиков" HorizontalAlignment="Left" Margin="28,234,0,0" VerticalAlignment="Top" Width="384" Click="Button_Click_7"/>
+        <Button Content="Добавить поставщика" HorizontalAlignment="Left" Margin="613,234,0,0" VerticalAlignment="Top" Width="169" Click="Button_Click_8"/>
+        <Button Content="Удалить поставщика" HorizontalAlignment="Left" Margin="439,234,0,0" VerticalAlignment="Top" Width="169" Click="Button_Click_9"/>
+        <Button Content="Отчеты" HorizontalAlignment="Left" Margin="28,362,0,0" VerticalAlignment="Top" Width="754" Click="Button_Click_10"/>
+        <Button Content="Проданная техника" HorizontalAlignment="Left" Margin="28,426,0,0" VerticalAlignment="Top" Width="754" Click="Button_Click_11"/>
+        <Button Content="Справка" HorizontalAlignment="Left" Margin="28,482,0,0" VerticalAlignment="Top" Click="Button_Click_12" Width="754"/>
+
+    </Grid>
+</Window>

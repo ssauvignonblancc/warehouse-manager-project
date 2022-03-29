@@ -1,0 +1,37 @@
+﻿<Window x:Class="Aramey.ListTechnics"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aramey"
+        mc:Ignorable="d"
+        Title="Список техники" Height="450" Width="692" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Background="{x:Null}">
+    <Window.Resources>
+        <local:АрамейDataSet x:Key="арамейDataSet"/>
+        <CollectionViewSource x:Key="техникаViewSource" Source="{Binding Техника, Source={StaticResource арамейDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource техникаViewSource}" Background="White">
+        <Label Content="Список техники на складе" HorizontalAlignment="Left" Margin="12,-2,-2,0" VerticalAlignment="Top" FontSize="48" FontFamily="Segoe UI Black" Width="674"/>
+        <Button Content="Назад" x:Name="LoadBD_Copy" HorizontalAlignment="Left" Margin="28,70,0,0" VerticalAlignment="Top" Width="323" Click="LoadBD_Copy_Click"/>
+        <TextBox x:Name="TextSearch" HorizontalAlignment="Left" Height="26" Margin="464,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Search" Content="Поиск" HorizontalAlignment="Left" Margin="599,124,0,0" VerticalAlignment="Top" Width="75" Background="{x:Null}" Foreground="#DD000000" Click="Search_Click"/>
+        <Button Content="Продать" HorizontalAlignment="Left" Margin="368,70,0,0" VerticalAlignment="Top" Width="291" Click="Button_Click" Cursor="Hand"/>
+        <DataGrid x:Name="техникаDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="10,173,10,10" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="названиеColumn" Binding="{Binding Название}" Header="Название" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="стоимостьColumn" Binding="{Binding Стоимость}" Header="Стоимость, руб" Width="SizeToHeader"/>
+                <DataGridTemplateColumn x:Name="времяЗаписиColumn" Header="Время Записи" Width="SizeToHeader">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding ВремяЗаписи, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="поставщикColumn" Binding="{Binding Поставщик}" Header="Поставщик" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="количествоColumn" Binding="{Binding Количество}" Header="Количество, штук" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="count" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Cursor="IBeam" Margin="28,128,0,0"/>
+
+    </Grid>
+</Window>

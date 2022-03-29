@@ -1,0 +1,252 @@
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\bin\Debug\Aramey.exe.config
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\bin\Debug\Aramey.exe
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\bin\Debug\Aramey.pdb
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\bin\Debug\MaterialDesignColors.dll
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\bin\Debug\MaterialDesignColors.pdb
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.csprojAssemblyReference.cache
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\MainWindow.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\App.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.cache
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.lref
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\App.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\MainWindow.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.g.resources
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.Properties.Resources.resources
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.csproj.GenerateResource.cache
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.csproj.CoreCompileInputs.cache
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.csproj.CopyComplete
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.exe
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.pdb
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\ListTechnics.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\ListTechnics.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\DeletTechnics.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\DeletTechnics.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\AddTechnics.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\AddTechnics.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\ListEmployee.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\ListEmployee.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\AddEmployee.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\AddEmployee.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\DeletEmployee.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\DeletEmployee.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\HistoryTechnics.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\HistoryTechnics.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\ListPostav.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\ListPostav.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\AddPostav.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\DeletePostav.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\AddPostav.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\DeletePostav.baml
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Aramey.csproj.ResolveComReference.cache
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Otchet.g.cs
+D:\КБиП\Курсовая БД\Курсач БД\Aramey\Aramey\obj\Debug\Otchet.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\bin\Debug\Aramey.exe.config
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\bin\Debug\Aramey.exe
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\bin\Debug\Aramey.pdb
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\bin\Debug\MaterialDesignColors.dll
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.csproj.ResolveComReference.cache
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\AddEmployee.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\AddPostav.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\AddTechnics.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\DeletEmployee.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\DeletePostav.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\DeletTechnics.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\HistoryTechnics.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\ListEmployee.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\ListPostav.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\ListTechnics.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\MainWindow.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Otchet.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.cache
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.lref
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\App.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\AddEmployee.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\AddPostav.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\AddTechnics.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\DeletEmployee.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\DeletePostav.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\DeletTechnics.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\HistoryTechnics.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\ListEmployee.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\ListPostav.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\ListTechnics.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\MainWindow.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Otchet.baml
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.g.resources
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.Properties.Resources.resources
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.csproj.CopyComplete
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.exe
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Aramey.pdb
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Sold.g.cs
+C:\Users\ПК\Desktop\КурсоваяБД\Aramey\Aramey\obj\Debug\Sold.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\bin\Debug\Aramey.exe.config
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\bin\Debug\Aramey.exe
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\bin\Debug\Aramey.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignColors.dll
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.AssemblyReference.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.ResolveComReference.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\AddEmployee.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\AddPostav.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\AddTechnics.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\DeletEmployee.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\DeletePostav.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\DeletTechnics.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\HistoryTechnics.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\ListEmployee.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\ListPostav.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\ListTechnics.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\MainWindow.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Otchet.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Sold.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\App.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.lref
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\App.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\AddEmployee.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\AddPostav.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\AddTechnics.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\DeletEmployee.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\DeletePostav.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\DeletTechnics.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\HistoryTechnics.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\ListEmployee.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\ListPostav.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\ListTechnics.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\MainWindow.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Otchet.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Sold.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.g.resources
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.Properties.Resources.resources
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.GenerateResource.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.CoreCompileInputs.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.CopyComplete
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.exe
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\Aramey.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\log_in.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\log_in.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\sign_up.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом\Aramey\Aramey\obj\Debug\sign_up.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\bin\Debug\Aramey.exe.config
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\bin\Debug\Aramey.exe
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\bin\Debug\Aramey.pdb
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignColors.dll
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.AssemblyReference.cache
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.ResolveComReference.cache
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\AddEmployee.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\AddPostav.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\AddTechnics.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\DeletEmployee.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\DeletePostav.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\DeletTechnics.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\HistoryTechnics.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\ListEmployee.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\ListPostav.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\ListTechnics.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\log_in.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\MainWindow.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Otchet.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\sign_up.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Sold.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\App.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.cache
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.lref
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\App.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\AddEmployee.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\AddPostav.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\AddTechnics.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\DeletEmployee.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\DeletePostav.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\DeletTechnics.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\HistoryTechnics.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\ListEmployee.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\ListPostav.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\ListTechnics.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\log_in.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\MainWindow.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Otchet.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\sign_up.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Sold.baml
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.g.resources
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.Properties.Resources.resources
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.GenerateResource.cache
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.CoreCompileInputs.cache
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.csproj.CopyComplete
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.exe
+C:\Users\Student418\Desktop\Диплом\Диплом\Aramey\Aramey\obj\Debug\Aramey.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\bin\Debug\Aramey.exe.config
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\bin\Debug\Aramey.exe
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\bin\Debug\Aramey.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\bin\Debug\MaterialDesignColors.dll
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.csproj.AssemblyReference.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.csproj.ResolveComReference.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\AddEmployee.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\AddPostav.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\AddTechnics.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\DeletEmployee.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\DeletePostav.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\DeletTechnics.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\HistoryTechnics.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\ListEmployee.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\ListPostav.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\ListTechnics.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\log_in.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\MainWindow.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Otchet.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Sold.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\App.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey_MarkupCompile.lref
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\App.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\AddEmployee.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\AddPostav.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\AddTechnics.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\DeletEmployee.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\DeletePostav.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\DeletTechnics.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\HistoryTechnics.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\ListEmployee.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\ListPostav.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\ListTechnics.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\log_in.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\MainWindow.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Otchet.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Sold.baml
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.g.resources
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.Properties.Resources.resources
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.csproj.GenerateResource.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.csproj.CoreCompileInputs.cache
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.csproj.CopyComplete
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.exe
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\Aramey.pdb
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\OtchetPoDate.g.cs
+C:\Users\ssauvignonblancc\Desktop\Диплом ОСНОВА\Aramey\Aramey\obj\Debug\OtchetPoDate.baml

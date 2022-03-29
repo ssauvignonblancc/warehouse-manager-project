@@ -1,0 +1,23 @@
+﻿<Window x:Class="Aramey.AddEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aramey"
+        mc:Ignorable="d"
+        Title="Добавление работника" Height="564" Width="942.5" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Добавление работника" HorizontalAlignment="Left" Margin="186,10,0,0" VerticalAlignment="Top" FontSize="48" FontFamily="Segoe UI Black"/>
+        <Label Content="ФИО" HorizontalAlignment="Left" Margin="123,127,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black"/>
+        <Label Content="Должность" HorizontalAlignment="Left" Margin="123,192,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black"/>
+        <Label Content="Количество лет работы" HorizontalAlignment="Left" Margin="123,350,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black"/>
+        <TextBox x:Name="Name" HorizontalAlignment="Left" Height="40" Margin="583,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261"/>
+        <TextBox x:Name="Dol" HorizontalAlignment="Left" Height="40" Margin="583,192,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261"/>
+        <TextBox x:Name="Staj" HorizontalAlignment="Left" Height="40" Margin="583,350,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261"/>
+        <Button x:Name="Back" Content="Назад" HorizontalAlignment="Left" Margin="317,464,0,0" VerticalAlignment="Top" Width="149" Click="Back_Click"/>
+        <Button x:Name="Add" Content="Добавить" HorizontalAlignment="Left" Margin="478,464,0,0" VerticalAlignment="Top" Width="149" Click="Add_Click_1"/>
+        <Label Content="Количество часов работы в день " HorizontalAlignment="Left" Margin="123,279,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Segoe UI Black" Width="428"/>
+        <TextBox x:Name="Time" HorizontalAlignment="Left" Height="40" Margin="583,279,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261"/>
+
+    </Grid>
+</Window>

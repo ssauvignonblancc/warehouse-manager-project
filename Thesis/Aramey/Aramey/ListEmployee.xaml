@@ -1,0 +1,28 @@
+﻿<Window x:Class="Aramey.ListEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aramey"
+        mc:Ignorable="d"
+        Title="Список работников" Height="450" Width="800" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:АрамейDataSet x:Key="арамейDataSet"/>
+        <CollectionViewSource x:Key="приемщикViewSource" Source="{Binding Приемщик, Source={StaticResource арамейDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource приемщикViewSource}">
+        <Label Content="Список работников склада" HorizontalAlignment="Left" Margin="68,10,0,0" VerticalAlignment="Top" FontSize="48" FontFamily="Segoe UI Black"/>
+        <Button x:Name="Back" Content="Назад" HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top" Width="772" Click="Back_Click"/>
+        <DataGrid x:Name="приемщикDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="10,181,10,10" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                 <DataGridTextColumn x:Name="фИОColumn" Binding="{Binding ФИО}" Header="ФИО" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="времяРаботыColumn" Binding="{Binding ВремяРаботы}" Header="Время Работы" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="должностьColumn" Binding="{Binding Должность}" Header="Должность" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="стажРаботыColumn" Binding="{Binding СтажРаботы}" Header="Стаж Работы" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="TextSearch" HorizontalAlignment="Left" Height="26" Margin="572,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Search" Content="Поиск" HorizontalAlignment="Left" Margin="707,132,0,0" VerticalAlignment="Top" Width="75" Background="{x:Null}" Foreground="#DD000000" Click="Search_Click"/>
+
+    </Grid>
+</Window>
